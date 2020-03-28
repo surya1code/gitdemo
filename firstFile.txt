@@ -1,2 +1,2 @@
 This is the first line in the versioned file of Demo in git 
-
+This is the second line after first commit to local repo
