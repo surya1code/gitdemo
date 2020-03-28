@@ -1,1 +1,2 @@
-This is to check multiple file commits. 
+This is to check multiple file commits.
+This is to check the status of staged file as well as unstaged file both at the same time. 
