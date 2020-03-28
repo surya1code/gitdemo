@@ -2,4 +2,11 @@ This is the first line in the versioned file of Demo in git
 This is the second line after first commit to local repo
 This is the third line after the second commit already done to see function of ddiff before comiting?
 
-Before adding to stating area by means of git add, we can see the diff by git diff command between working copy and staging area
+Before adding to stating area by means of git add, we can see the diff by git diff command between working copy and staging area.
+
+Observations : We can still commit changes without adding the file again to staging area
+Questions : Once we do that does the changes go to local repository
+If not...once i pull it from remote repository what happens to my local changes. 
+
+
+
