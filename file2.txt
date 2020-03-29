@@ -1,0 +1,2 @@
+Added this text from local directory after it was modified from remote dir
+to check what happend if I change file in local dir
