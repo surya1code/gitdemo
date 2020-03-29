@@ -1,2 +1,0 @@
-This is to check multiple file commit
-Checking for diff function agains
