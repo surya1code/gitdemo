@@ -1,0 +1,6 @@
+First File to be commited. Basic commands of git.
+1. git add filename --> adds file to local staging area
+2. git commit filename --> adds file to local repository
+3. git push origin master --> pushes the recent commits to remote repository
+4 git status --> gets the status of the recent modifications 
+5. git remote -v --> gets the status of the remote repository of the origin
