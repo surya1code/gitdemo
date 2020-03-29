@@ -1,0 +1,1 @@
+This is first line added in file2 from remote localtion ...can be of another developer
